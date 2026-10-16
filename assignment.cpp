@@ -27,5 +27,9 @@ int main(){
     else
      cout<<"\nThe sum is odd.";
     cout<<"\nGood bye!";
+    int a;
+    cout<<"\nEnter a number: ";
+    cin>>a;
+    cout<<"\nThe double of the number is: "<<2*a;
     return 0;
 }
