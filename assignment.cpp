@@ -26,4 +26,6 @@ int main(){
      cout<<"\nThe sum of the indices is even.";
     else
      cout<<"\nThe sum is odd.";
+    cout<<"\nGood bye!";
+    return 0;
 }
